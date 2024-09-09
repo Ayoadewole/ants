@@ -1,0 +1,18 @@
+* {
+box-sizing: border-box;
+}
+
+body {
+    background-color: linen;
+    margin: 5%;
+    color: black;
+    text-align: center;
+}
+
+#head {
+    width: 150px;
+    height: 30px;
+    border: 1px solid #edf;
+    border-radius: 35px;
+    background: linear-gradient(#adfeaa 65%, #dfdfdf 60%);
+}
